@@ -1,3 +1,4 @@
 whatsapp
 fb
 instagram
+twitter
